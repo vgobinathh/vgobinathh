@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-💻 Full-Stack Developer | .NET | React | Azure | SQL Server | Microservices
+I am Gobinath Venkatachalam,
+💻 Full-Stack Developer | .NET | React | Azure | SQL Server | Microservices 
 🚀 Passionate about building scalable, high-performance applications with modern technologies.
 
 👨‍💻 About Me
@@ -9,6 +9,7 @@
 🔹 Passionate about writing clean, maintainable, and scalable code.
 🔹 Experienced in designing RESTful APIs, database optimization, and cloud-based architectures.
 🔹 Continuous learner, exploring AI, DevOps, and advanced system design.
+
 🚀 Technical Skills
 Backend:
 ✅ .NET (C#, ASP.NET Core, Web API, Microservices, Entity Framework)
@@ -28,12 +29,10 @@ Other Technologies:
 ✅ Unit Testing (xUnit, Jest, Moq)
 
 📂 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vgobinathh&show_icons=true&theme=radical)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgobinathh&layout=compact&theme=radical)  
 
-🔥 Projects & Contributions
-🚧 Project Name – Description of your project.
-🚧 Another Project – Details about this project.
-
-📫 Let's Connect
-🔗 LinkedIn https://www.linkedin.com/in/gobinath-venkatachalam/
+📫 Let's Connect 
+🔗 LinkedIn https://www.linkedin.com/in/gobinath-venkatachalam/    
 📧 Email: vgobinathh@gmail.com
