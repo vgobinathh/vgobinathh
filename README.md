@@ -28,11 +28,6 @@ Other Technologies:
 ✅ Git, GitHub Actions, GitHub Copilot, RESTful APIs, GraphQL
 ✅ Unit Testing (xUnit, Jest, Moq)
 
-📂 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vgobinathh&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgobinathh&layout=compact&theme=radical)  
-
 📫 Let's Connect 
 🔗 LinkedIn https://www.linkedin.com/in/gobinath-venkatachalam/    
 📧 Email: vgobinathh@gmail.com
