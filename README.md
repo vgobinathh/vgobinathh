@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am **Gobinath Venkatachalam**,
-💻 Full-Stack Developer | .NET | React | Azure | SQL Server | Microservices 
+💻 Full-Stack Developer | .NET | React | Angular | Azure | SQL Server | Microservices 
 🚀 Passionate about building scalable, high-performance applications with modern technologies.
 
 👨‍💻 **About Me**  
